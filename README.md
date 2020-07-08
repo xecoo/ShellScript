@@ -17,7 +17,11 @@ Automatização de instalação da área de trabalho para o Ubuntu.
   <li>WhatsDesk</li>
 </ul>
 
+## Permissões 
+
 Certique-se do arquivo ter permissões de execução.
+
+## Instalaço
 
 Para utilizar o Script, basta rodar o comando:
 
@@ -25,4 +29,7 @@ Para utilizar o Script, basta rodar o comando:
 sudo ./workstation.sh
 ```
 
-##Desenvolvido por <a href="github.com/xecoo">Bruno Pacheco</a>
+##Desenvolvido por:
+<ul>
+<li><a href="github.com/xecoo">Bruno Pacheco</a></li>
+</ul>
