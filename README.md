@@ -30,7 +30,7 @@ Para utilizar o Script, basta rodar o comando:
 sudo ./workstation.sh
 ```
 
-##Desenvolvido por:##
+## Desenvolvido por:
 <ul>
 <li><a href="github.com/xecoo">Bruno Pacheco</a></li>
 </ul>
