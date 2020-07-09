@@ -21,8 +21,9 @@ Automatização de instalação da área de trabalho para o Ubuntu.
 
 Certique-se do arquivo ter permissões de execução.
 
-## Instalaço
+## Instalação
 
+Antes é necessário ir nas propriedades do arquivo e permitir a execução como programa.
 Para utilizar o Script, basta rodar o comando:
 
 ```
