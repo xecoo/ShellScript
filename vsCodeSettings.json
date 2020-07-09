@@ -1,0 +1,11 @@
+{
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.shell.linux": "/bin/bash",
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vscode-icons"
+}
