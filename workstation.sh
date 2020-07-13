@@ -21,9 +21,9 @@ sudo apt install samba -y
 
 sudo apt-get install git -y
 
-git config --global user.name "Bruno Pacheco" 
+git config --global user.name "<your name>" 
 
-git config --global user.email "bruno_spacheco@yahoo.com"
+git config --global user.email "<your email>"
 
 ##Google Chrome##
 sudo wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
