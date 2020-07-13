@@ -1,10 +1,5 @@
-#!/bin/bash
-
+#!/bin/bash 
 ##A primeira linha diz para o sistema que trata-se de um arquivo shellScript##
-## Removendo travas eventuais do apt ##
-
-sudo rm /var/lib/dpkg/lock-frontend ; sudo rm /var/cache/apt/archives/lock ;
-
 ## Atualizando o repositório ##
 
 sudo apt-get update ; sudo apt-get upgrade ; 
@@ -87,7 +82,6 @@ sudo apt-get install -f -y
 ##Finalizando a instalação removendo os arquivos desnecessários##
 
 sudo apt-get autoclean
-
 sudo apt-get autoremove -y
 
 ##Deletando diretório dos arquivos baixados##
