@@ -34,9 +34,13 @@ sudo wget -c https://discordapp.com/api/download?platform=linux&format=deb-O dis
 
 ##Kdenlive##
 
-sudo add-apt-repository ppa:sunab/kdenlive-release
+##Adicione o repositório do programa com este comando##
 
-sudo apt-get install kdenlive -y
+add-apt-repository ppa:kdenlive/kdenlive-stable
+
+##Agora use o comando abaixo para instalar o programa##
+
+sudo apt-get install kdenlive
 
 ##Slack##
 
@@ -48,7 +52,7 @@ sudo apt install mysql-server -y
 
 ##Postman##
 
-sudo snap install postman -y
+sudo snap install postman
 
 ##Skype##
 
@@ -64,7 +68,7 @@ sudo wget -c https://d11yldzmag5yn.cloudfront.net/prod/5.1.422789.0705/zoom_amd6
 
 ##WhatsDesk##
 
-sudo snap install whatsdesk -y
+sudo snap install whatsdesk
 
 ##Instalar todos os programas terminados em .deb##
 
