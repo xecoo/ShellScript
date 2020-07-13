@@ -34,7 +34,6 @@ sudo wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd
 sudo wget -c https://discordapp.com/api/download?platform=linux&format=deb-O discord.deb
 
 ##Kdenlive##
-
 ##Adicione o repositório do programa com este comando##
 
 add-apt-repository ppa:kdenlive/kdenlive-stable
